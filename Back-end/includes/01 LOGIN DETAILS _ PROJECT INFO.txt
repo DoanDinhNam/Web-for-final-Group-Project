@@ -1,0 +1,22 @@
+
+Username: admin
+Password: admin
+
+**Special User Login Details**
+
+Username: nam-Special
+Password: nam
+
+Username: nhan-Special
+Password: nhan
+
+**User(Employee) Login Details**
+
+Username: phuc
+Password: phuc 
+
+Username: nam
+Password: nam 
+
+Username: nhan
+Password: nhan 
